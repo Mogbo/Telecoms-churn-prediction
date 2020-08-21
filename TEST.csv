@@ -1,4 +1,4 @@
-Customer ID,network_age,Customer tenure in month,Total Spend in Months 1 and 2 of 2017,Total SMS Spend,Total Data Spend,Total Data Consumption,Total Unique Calls,Total Onnet spend ,Total Offnet spend,Total Call centre complaint calls,Network type subscription in Month 1,Network type subscription in Month 2,Most Loved Competitor network in in Month 1,Most Loved Competitor network in in Month 2
+Customer ID,network_age,Customer tenure in month,Total Spend in Months 1 and 2 of 2017,Total SMS Spend,Total Data Spend,Total Data Consumption,Total Unique Calls,Total Onnet spend,Total Offnet spend,Total Call centre complaint calls,Network type subscription in Month 1,Network type subscription in Month 2,Most Loved Competitor network in in Month 1,Most Loved Competitor network in in Month 2
 ADF0001,1012,33.73333333,1560.1156,14.04,226.3,3126093.298,64,14503,12402,1,3G,3G,Weematel,Mango
 ADF0002,137,4.566666667,1705.8368,73.63,5,162.8809,515,29832,88953,9,3G,3G,ToCall,Mango
 ADF0003,202,6.733333333,1720.3008,4.36,245,3334606.97,163,228,1495,1,3G,3G,ToCall,Mango
